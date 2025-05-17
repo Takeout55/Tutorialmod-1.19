@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#B#",
+    "III"
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:zircon"
+    },
+    "B": {
+      "item": "minecraft:beacon"
+    },
+    "I": {
+      "item": "tutorialmod:zircon_block"
+    }
+    },
+  "result": {
+    "item": "tutorialmod:jumpy_block"
+  }
+}
